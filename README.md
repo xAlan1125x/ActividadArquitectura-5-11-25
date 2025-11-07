@@ -1,7 +1,7 @@
 # ActividadArquitectura-5-11-25
 Varela Alan Christian Emmanuel
 
-#Consignas
+# Consignas
 Implementar la aplicaciòn en Arduino Uno en Wokwi del proyecto:
 https://www.aprendemachinelearning.com/programa-un-coche-arduino-con-inteligencia-artificial/
 
@@ -17,7 +17,7 @@ Por cada miembro del equipo generar una nueva tabla de verdad y desplegarla nuev
 5- Confeccionar github con el código y en el Readme resumir todo lo solicitado.
 
 
-#Desarrollo
+# Desarrollo
 
 Implementación en Wokwi
 https://wokwi.com/projects/446824758623098881
