@@ -19,11 +19,11 @@ Por cada miembro del equipo generar una nueva tabla de verdad y desplegarla nuev
 
 # Desarrollo
 
-Implementación en Wokwi
-https://wokwi.com/projects/446824758623098881
+# Implementación en Wokwi
+# https://wokwi.com/projects/446824758623098881
 
 
-# 1-	Arquitecturas.
+# 1-	Arquitecturas
 
 Se usan 2 arquitecturas: una en Python y otra en Arduino.
 
@@ -41,6 +41,7 @@ En el proyecto se aplicaron diferentes enfoques para solucionar problemas:
 
 *Enfoque de descomposición modular: EL proyecto se resolvió dividiendo el problema en módulos más simples: módulos que detectan los obstáculos (sensor ultrasónico), procesan y deciden la acción (red neuronal) y ejecutan la acción elegida (control de motores).
 
-3 y 4- https://colab.research.google.com/drive/1QzbxvDw2fnq92BE8dPBoWUiXU1XiMZZo?usp=sharing
+# 3 y 4- Ejecutar código en colab, simular dos nuevas entradas y una nueva salida, ajustar la red neuronal y generar nueva tabla de verdad
+# https://colab.research.google.com/drive/1QzbxvDw2fnq92BE8dPBoWUiXU1XiMZZo?usp=sharing
 
 
